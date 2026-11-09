@@ -101,8 +101,12 @@ switch (true) {
             padding: 8px; 
             text-align: left; 
         }
-        .zaliczony { color: green; }
-        .niezaliczony { color: red; }
+        .zaliczony { 
+            color: green; 
+        }
+        .niezaliczony { 
+            color: red; 
+        }
     </style>
 </head>
 <body>
